@@ -1,31 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 92" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 76" role="img" aria-labelledby="title desc">
   <title id="title">مؤسسة عبدالله لصيانة وتركيب الكراج والشتر</title>
   <desc id="desc">شعار مؤسسة عبدالله لخدمات أبواب الكراج والشتر الكهربائي في جدة</desc>
-  <defs>
-    <linearGradient id="markGradient" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0c6a6f"/>
-      <stop offset="1" stop-color="#073f45"/>
-    </linearGradient>
-    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#091821" flood-opacity=".16"/>
-    </filter>
-  </defs>
-
-  <rect width="420" height="92" rx="14" fill="#ffffff"/>
-
-  <g transform="translate(326 14)" filter="url(#softShadow)">
-    <rect width="64" height="64" rx="13" fill="url(#markGradient)"/>
-    <path d="M15 20h34M15 27h34M15 34h34M15 41h34" stroke="#f4b23c" stroke-width="3" stroke-linecap="round"/>
-    <path d="M14 49h36" stroke="#ffffff" stroke-width="4" stroke-linecap="round" opacity=".92"/>
-    <text x="32" y="44" text-anchor="middle" font-family="Tahoma, Arial, sans-serif" font-size="28" font-weight="800" fill="#ffffff">ع</text>
+  <rect width="360" height="76" rx="10" fill="#ffffff"/>
+  <g transform="translate(298 14)">
+    <rect width="48" height="48" rx="10" fill="#0c6a6f"/>
+    <text x="24" y="34" text-anchor="middle" font-family="Tahoma, Arial, sans-serif" font-size="27" font-weight="800" fill="#ffffff">ع</text>
   </g>
-
   <g text-anchor="end" font-family="Tahoma, Arial, sans-serif">
-    <text x="306" y="36" fill="#172026" font-size="24" font-weight="800">مؤسسة عبدالله</text>
-    <text x="306" y="60" fill="#5d6872" font-size="15" font-weight="600">لصيانة وتركيب الكراج والشتر</text>
-    <text x="306" y="78" fill="#0c6a6f" font-size="11" font-weight="700">Garage Doors &amp; Electric Shutters</text>
+    <text x="282" y="32" fill="#172026" font-size="22" font-weight="800">مؤسسة عبدالله</text>
+    <text x="282" y="54" fill="#5d6872" font-size="14" font-weight="600">لصيانة وتركيب الكراج والشتر</text>
   </g>
-
-  <path d="M28 72h236" stroke="#dce3e7" stroke-width="1"/>
-  <path d="M28 75h104" stroke="#f4b23c" stroke-width="3" stroke-linecap="round"/>
 </svg>
