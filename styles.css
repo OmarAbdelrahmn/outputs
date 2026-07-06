@@ -60,9 +60,9 @@ img {
 }
 
 .brand-logo {
-  width: clamp(250px, 28vw, 358px);
+  width: clamp(260px, 30vw, 390px);
   height: auto;
-  max-height: 58px;
+  max-height: 72px;
   object-fit: contain;
 }
 
@@ -782,8 +782,8 @@ html[dir="ltr"] .gallery-grid figcaption {
   }
 
   .brand-logo {
-    width: min(220px, 58vw);
-    max-height: 54px;
+    width: min(205px, 54vw);
+    max-height: 52px;
   }
 
   .lang-toggle {
