@@ -60,7 +60,7 @@ img {
 }
 
 .brand-logo {
-  width: clamp(190px, 21vw, 278px);
+  width: clamp(250px, 28vw, 358px);
   height: auto;
   max-height: 58px;
   object-fit: contain;
